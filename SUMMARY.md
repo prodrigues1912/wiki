@@ -1,6 +1,11 @@
 # Table of contents
 
 * [Introdução](README.md)
+* [Filosofia](filosofia/README.md)
+  * [COF](filosofia/cof/README.md)
+    * [Indicações de Livros](filosofia/cof/indicacoes-de-livros.md)
+    * [Aula 1](filosofia/cof/aula-1.md)
+* [Livros](livros.md)
 * [Programação](programacao/README.md)
   * [Ferramentas](programacao/ferramentas/README.md)
     * [ASDF](programacao/ferramentas/asdf.md)
@@ -12,10 +17,5 @@
       * [C#](programacao/linguagens/.net/c.md)
     * [C](programacao/linguagens/c.md)
     * [Python](programacao/linguagens/python.md)
-    * [Ruby](programacao/linguagens/ruby.md)
+    * [Ruby](ruby.md)
     * [Rust](programacao/linguagens/rust.md)
-* [Livros](livros.md)
-* [Filosofia](filosofia/README.md)
-  * [COF](filosofia/cof/README.md)
-    * [Indicações de Livros](filosofia/cof/indicacoes-de-livros.md)
-    * [Aula 1](filosofia/cof/aula-1.md)
