@@ -1,6 +1,6 @@
 # Introdução
 
-Essa é minha wiki pessoal, onde eu anoto tudo que sei sobre os assuntos que gosto de estudar.&#x20;
+Essa é minha wiki pessoal, onde eu anoto tudo que sei sobre os assuntos que gosto ou estudo.&#x20;
 
 A inspiração para criar essa wiki veio de [um artigo que li](https://www.swyx.io/learn-in-public/) sobre aprender em público.
 
